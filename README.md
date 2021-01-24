@@ -50,9 +50,9 @@ Do this in small chunks by logical category, or when done for the day
     - this means mark them as wanting to include in a commit
     - `git add README.md`
     - `git add translations/*.json` gets you all json files in the translations folder
-    - `git add --all` adds ALL files with changes 
+    - **`git add --all`** adds ALL files with changes 
  - we "commit" the staged files
-    - git commit -m "update to README with new contributor section"
+    - **`git commit -m "update to README with new contributor section"`**
     - `git status` to check files not stages anymore
     
 #### Push branch to origin (github)
